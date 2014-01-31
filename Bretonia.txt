@@ -153,7 +153,7 @@
       | | |  \                                |                 |         |
     o-o o o   o                               o                 o         o
                \                              |                 |         |   Q U E N E L L E S
-                o-o-o-o-o     o-o-o-N-o       o                 o         o
+      Cixous    o-o-o-o-o     o-o-o-N-o       o                 o         o
                          \   /         \     /                  |         |
                           o-o           o   o                   o       U-o-o-N-N-N-N
                                          \  |                   |         |   |
