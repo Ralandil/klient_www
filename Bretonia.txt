@@ -147,9 +147,9 @@
                                                 /        /  |        / \|\   /
                                                o        o   o     U-o   o-o-o
              N                                 |        |   |      /      |  \
-             |                                 o        o   o     o     S-o    o
-     o G S o-o                                /             |    /        |     \
-     | | |  /                                o              o   o         o      N-N-N
+             |                                 o        o   o     o     S-o   o
+     o G S o-o                                /             |    /        |    \
+     | | |  /                                o              o   o         o     N-N-N
      o-o-o-o                                 |                  |         |
      | | |  \                                |                  o         o
    o-o o o   o                               o                  |         |   Q U E N E L L E S
