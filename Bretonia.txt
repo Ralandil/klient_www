@@ -1,5 +1,4 @@
 
-
                                                                                                      N
                                                                                                      |
                                                                                                      o
@@ -97,15 +96,15 @@
                                                                         |
                                                                         o
                                                                         |
-                                                                    o   o  o
-                                                                    |  /   |
-                                                                o   o-o    o-o
+                                                                    o   o o
+                                                                    |  /  |
+                                                                o   o-o   o-o
                                                                  \    |  /
-                                                       Perrache   o-o o-o    o-o
-                                                                   \  |   \ /
-                                                                    o-o    o
-                                                                     /      \
-                                                                    o        o
+                                                       Perrache   o-o o-o   o-o
+                                                                   \  |  \ /
+                                                                    o-o   o
+                                                                     /     \
+                                                                    o       o
                                                                     |
                                                                     o
                                                                      \
