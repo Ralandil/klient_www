@@ -44,11 +44,11 @@
                                                                                    |/
                                                                                    o
                                                                                    |
-                                                                     Montlac   o   o-o-o
+                                                                               o   o-o-o
                                                                                 \ / \
                                                                        o         o   G
                                                                         \        |  
-                                                                         o-o-o K-o
+                                                                         o-o-o K-o   Montlac
                                                                               \ / \
                                                                                o   o-o
                                                                                |
