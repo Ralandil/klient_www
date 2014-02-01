@@ -116,14 +116,14 @@
                      o K o-o   |     o                                /                          |
                      | |/      o    /|                           o-o-o                         o-o
                      o-o       |   o |                          /                               \
-                        \      |  /  |                         o                               o o
-         KREUTZHOFEN     N     | o o-o-o                      /                                 \|
+                        \      |  /  |                         o                       Spalona o o
+         KREUTZHOFEN     N     | o o-o-o                      /                         Wies    \|
                          |     |/  |/ \|                 o-o-o                                 o-o
                          N     o   o---o                /                                       / \
                               /                        o                                       o    \
                     o---o----o                        /                                               \
-                   /  \      |                     o-o   o-o                                            \
-                o-o    o     o                    /        |                                           o-o-o-o-o-o-o-o-
+                   /  \      |                     o-o   o-o   Nasza                                    \
+                o-o    o     o                    /        |    Wioska                                 o-o-o-o-o-o-o-o-
                /|  \    \    |     Las     o-o-o-o-o-o-o o o-o                                        /
              /  o   U    o-K P        \   /             \| |                                        /
            /    |        |       o-o-o-o-o             o-o-o-o-o-o-o-o-o-o             o-o-o      /
