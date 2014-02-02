@@ -1,102 +1,102 @@
 N
 |
-o
+O
 |
-o
+O
  \
-  o
+  O
    \
-    o
+    O
      \
-      o
+      O
        \
-        o
+        O
         |
-        o
+        O
          \
-          o
+          O
           |
-          o
+          O
            \
-            o
+            O
              \
-              o         N
+              O         N
                \        |
-                o o   o o
+                O O   O O
                  \|  /  |
-                  o-o   o o
+                  O-O   O O
                  /   \ /  |
-                o     o-o-o   Marguilles
+                O     O-O-O   Marguilles
                       |    \
-                      o     G-o
+                      O     G-O
                        \
-                        o
+                        O
                         |
-                        o
+                        O
                         |
-                        o
+                        O
                          \
-                          o
+                          O
                            \
-                            o
+                            O
                             |
-                            o
+                            O
                              \
-                              o
+                              O
                                \
-                              o o
+                              O O
                               |  \
-                          o o o-o o
+                          O O O-O O
                            \| |   |
-                        o o-o-o   o o
+                        O O-O-O   O O
                          \ /   \  |/
-                        o-F     o-o    Salignac La Rouge
+                        O-F     O-O    Salignac La Rouge
                            \   / / \
-                        o   o-o-o U-o-o
+                        O   O-O-O U-O-O
                          \ / /| |  /
-                          o o o-o-o
+                          O O O-O-O
                          /   / /|  \
-                        o C / S o o-o-o
+                        O U / S O O-O-O
                           |/         \
-                          o-o         o-o
+                          O-O         O-O
                          /               \
-            o-o       o-o                 o
+            O-O       O-O                 O
            /   \     /                     \
-        o-o     o o-o                       o
+        O-O     O O-O                       O
         |       |/                           \
-  o-o   o       o                             o
+  O-O   O       O                             O
  \|  \ /                                       \
-  o   o                                         o
+  O   O                                         O
                                                  \
-                                                  o          Athel-Loren
+                                                  O          Athel-Loren
                                                    \            |
-                                                    o-o-o-o-o-o-o
+                                                    O-O-O-O-O-O-O
                                                     |            \
-                                                    o-o           o
+                                                    O-O           O
                                                     |              \
-                                                  G-o               o
+                                                  G-O               O
                                                                      \
-                                                 Pod                  o-o-o-o-o-o-o
+                                                 Pod                  O-O-O-O-O-O-O
                                              Piegowata Elfka                       \
-                                                                                    o
+                                                                                    O
                                                                                      \
-                                                                                      o
+                                                                                      O
                                                                                        \
-                                                                                        o
+                                                                                        O
                                                                                         |
-                                                                                        o
+                                                                                        O
                                                                                         |
-                                                                                        o
+                                                                                        O
                                                                                         |
-                                                                                        o
+                                                                                        O
                                                                                          \
-                                                                                          o
+                                                                                          O
                                                                                            \
-                                                                                            o
+                                                                                            O
                                                                                              \
-                                                                                              o
+                                                                                              O
                                                                                                \
-                                                                                                o      Gory Szare
+                                                                                                O      Gory Szare
                                                                                                  \           \
-                                                                                                  o-o-o-o-o-o-o-o-o-o-o
+                                                                                                  O-O-O-O-O-O-O-O-O-O-O
                                                                                                                        \
