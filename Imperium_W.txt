@@ -1,16 +1,16 @@
-           o   o
+           O   O
 \           \ /
- o         o-o   o
+ O         O-O   O
   \          |  /
-   o         o-o  Dunkelberg
+   O         O-O  Dunkelberg
    |        /| |\
-   o-o     o U o o
+   O-O     O U o O
       \    |
-       o   o
+       O   O
         \ /
-         o
+         O
           \
-           o
+           O
            |
-           o
+           O
             \
