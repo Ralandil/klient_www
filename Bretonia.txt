@@ -169,7 +169,7 @@
                                                              |         |     |     |
                                                        U     O-O-O-O-O-O-O-O-O--O--O
                                                       /     #          |
-                                                     O-K   O           O
+                                                     O-k   O           O
                                                       \   /            |
                                                    O   O O             O
                                                   / \ / \|             |
