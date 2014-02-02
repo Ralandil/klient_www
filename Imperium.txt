@@ -30,10 +30,10 @@
            O-O-O-O               O                   O    |    |   |      \|/     |   |     |      /
                   \             /                         N----O---O-O-O-O-T-O-O--O-O-O-O-O#O-O-O-O        O-O-O-O-O
                    O-O         O                          |    |   | |    /|\  |  |         |      \      /         \
-                      \       /                           N    O   U S   O | U k  o   U     |        O-O-O
+                      \       /                           N    O   U S   O | U K  o   U     |        O-O-O
                        O-O-O-O                            |     \          O-S    |   |     |
                                                           N    O-O         |\     o   O     O
-                                                                 |         | U    |   #     |
+                                                                 |         | k    |   #     |
                                                   N U L N      U-O--O--O-O-O-U  U-o   O     |
                                                                   \      | |      |   |     |
                                                               O    \   U Z O---O--O-O-O     O
@@ -78,7 +78,7 @@
                                                                                   /   \ /  |
                                                                                  O   O-O-O-O
                                                                                 /   /  | |  \
-                                                                               O-O-O   O k   O-O
+                                                                               O-O-O   O K   O-O
                                                                               /             /| |\
                                                                              O             O O O O
                                                                              |                  /
@@ -113,7 +113,7 @@
                     \ /  |    /|                                         O                       O
                      O---O S O |                                        /                        |
                      |    \|/  |                                       O                         O
-                     O K O-O   |     O                                /                          |
+                     O G O-O   |     O                                /                          |
                      | |/      O    /|                           O-O-O                         O-O
                      O-O       |   O |                          /                               \
                         \      |  /  |                         O                       Spalona O O
@@ -125,7 +125,7 @@
                    /  \      |                     O-O   O-O   Nasza                                    \
                 O-O    O     O                    /        |    Wioska                                 O-O-O-O-O-O-O-O-
                /|  \    \    |     Las     O-O-O-O-O-O-O O O-O     O                                  /
-             /  O   U    O-k P        \   /             \| |       |                                /
+             /  O   U    O-K P        \   /             \| |       |                                /
            /    |        |       O-O-O-O-O             O-O-O-O-O-O-O-O-O-O             O-O-O      /
           O     G        |      /                        |     | |        \           /     \   /
            \           O-O-O-O-O                         O-O   O O         O     O-O-O       O-O
