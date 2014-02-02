@@ -1,135 +1,136 @@
                                                                     \     /
-                                                                     o-o o
+                                                                     O-O O
                                                                        |/
-                                                                       o
+                                                                       O
                                                                        |
-                                                                       o
+                                                                       O
                                                                        |
-                                                                       o
+                                                                       O
                                                                        |
-                                                                       o
+                                                                       O
                                                                        |
-                                                                     o-#     o-o-o-o
-                                                                       |\   /       \
-                                                                       # o-o         o
+                                                                     O-O     O-O-O-O
+                                                                       #\   /       \
+                                                                       O O-O         O
                                                                        |
-                                                                       o
+                                                                       O
                                                                        |
-                                               b   o-o         U       o
+                                               b   O-O         U       O
                                                 \ /   \        |       |
-                                                 o-U   o-o-o-o-o-o-o-o-F-----o-o-o-o-o-U
+                                                 O-U   O-O-O-O-O-O-O-O-F-----O-O-O-O-O-U
                                                  |    /           /     \  U | |     |
-                                             M B o   o           /        \| U U     |
-                                             |  \|   |          o          o-S       o o-o-b   Laka
-                                     o-#-#-o-o-o-o-o-o         /           |         | |     /
-  \                                 /      | |  /|\  |        o          U-o-U       | o    o
-   F                               o       o U o o P o       /             |         |/     |
-    \                              |           |  \  |      /            G-o         o      o
-     o-o-o                         o           G   o-o     /               |       /        |
-          \                       /                  |    o    o   G     G o o    o   S     o       Laka
-           o-o-o-o               o                   o    |    |   |      \|/     |   |     |      /
-                  \             /                         N----o---o-o-o-o-T-o-o--o-o-o-o-#-#-o-o-o        o-o-o-o-o
-                   o-o         o                          |    |   | |    /|\  |  |         |      \      /         \
-                      \       /                           N    o   U S   o | U k  o   U     |        o-o-o
-                       o-o-o-o                            |     \          o-S    |   |     |
-                                                          N    o-o         |\     o   #     o
-                                                                 |         | k    |   |     |
-                                                  N U L N      U-o--o--o-o-o-U  U-o   #     |
+                                             M B O   O           /        \| U U     |
+                                             |  \|   |          O          O-S       O O-O-b   Laka
+                                     O-O#O-O-O-O-O-O-O         /           |         | |     /
+  \                                 /      | |  /|\  |        O          U-O-U       | O    O
+   F                               O       O U O O P O       /             |         |/     |
+    \                              |           |  \  |      /            G-O         O      O
+     O-O-O                         O           G   O-O     /               |       /        |
+          \                       /                  |    O    O   G     G O O    O   S     O       Laka
+           O-O-O-O               O                   O    |    |   |      \|/     |   |     |      /
+                  \             /                         N----O---O-O-O-O-T-O-O--O-O-O-O-O#O-O-O-O        O-O-O-O-O
+                   O-O         O                          |    |   | |    /|\  |  |         |      \      /         \
+                      \       /                           N    O   U S   O | U k  o   U     |        O-O-O
+                       O-O-O-O                            |     \          O-S    |   |     |
+                                                          N    O-O         |\     o   O     O
+                                                                 |         | k    |   #     |
+                                                  N U L N      U-O--O--O-O-O-U  U-o   O     |
                                                                   \      | |      |   |     |
-                                                              o    \   U Z o---o--o-o-o     o
+                                                              O    \   U Z O---O--O-O-O     O
                                                                \    \ /    |      |        /
-                                                                o    o     o    T-o       o
+                                                                O    O     O    T-O       O
                                                                 |     \    |      |      /
-                                                                o      o-G #      o   o-o
-                                                                 \         |         /
-                                                                  o      o-#--o--o--o
+                                                                O      O-G O      O   O-O
+                                                                 \         #         /
+                                                                  O      O-O--O--O--O
                                                                    \    /  |
-                                                                    o--o   o
+                                                                    O--O   O
                                                                            |
-                                                                           o
+                                                                           O
                                                                            |
-                                                                           o
+                                                                           O
                                                                             \
-                                                                             o
+                                                                             O
                                                                              |
-                                                                             o
+                                                                             O
                                                                              |
-                                                                             o
+                                                                             O
                                                                               \
-                                                                               o
+                                                                               O
                                                                                |
-                                                                               o
+                                                                               O
                                                                                |
-                                                                               o
+                                                                               O
                                                                                |
-                                                                               o
+                                                                               O
                                                                                 \
-                                                                                 o
+                                                                                 O
                                                                                  |
-                                                                                 o
+                                                                                 O
                                                                                  |
-                                                                                 o
+                                                                                 O
                                                                                   \
-                                                                                   o
+                                                                                   O
                                                                                    |
-                                                                                   o
+                                                                                   O
                                                                                    |
-                                                                                   o o   G o
+                                                                                   O O   G O
                                                                                   /   \ /  |
-                                                                                 o   o-o-o-o
+                                                                                 O   O-O-O-O
                                                                                 /   /  | |  \
-                                                                               o-o-o   o k   o-o
+                                                                               O-O-O   O k   O-O
                                                                               /             /| |\
-                                                                             o             o o o o
+                                                                             O             O O O O
                                                                              |                  /
-                                                                             o                 o
+                                                                             O                 O
                                                                              |                /
-                                                                             o             o-o
+                                                                             O             O-O
                                                                              |            /
-                                                                             o           o
-                                             o-o-o                          /            |
-                                             |   |                         o             o
-                                           o-o   Z                        /               \
-                                             |                           o                 o-o
-                                             o                           |                    \
-                                             |                           o                     o
-                                           o-o                           |                     |
-                                             |                           o                     o
-                                           G-o                           |                     |
-                                             |                           o                     o
-                                             o                           |                    /
-                                             |                           F                 o-o
-                                     o       o                           |                /
-                                      \     /                            o               o
-                                       o   o                              \               \
-                                        \ /                                o               o-o
-                                         o                                 |                 |
-\                                        |                                 o                 o
- o                         U       M o   o                                 |                  \
-  \                        |      /  |  /                                  o                   o
-   o                     o-o---o-o---o-o                                   |                    \
-    \                   /      |                                           o-G                   o
-     o-o-o-o-o-o-o-o   o o     o                                          /                      |
-                    \ /  |    /|                                         o                       o
-                     o---o S o |                                        /                        |
-                     |    \|/  |                                       o                         o
-                     o K o-o   |     o                                /                          |
-                     | |/      o    /|                           o-o-o                         o-o
-                     o-o       |   o |                          /                               \
-                        \      |  /  |                         o                       Spalona o o
-         KREUTZHOFEN     N     | o o-o-o                      /                         Wies    \|
-                         |     |/  |/ \|                 o-o-o                                 o-o
-                         N     o   o---o                /                                       / \
-                              /                        o                                       o    \
-                    o---o----o                        /                                               \
-                   /  \      |                     o-o   o-o   Nasza                                    \
-                o-o    o     o                    /        |    Wioska                                 o-o-o-o-o-o-o-o-
-               /|  \    \    |     Las     o-o-o-o-o-o-o o o-o     o                                  /
-             /  o   U    o-k P        \   /             \| |       |                                /
-           /    |        |       o-o-o-o-o             o-o-o-o-o-o-o-o-o-o             o-o-o      /
-          o     G        |      /                        |     | |        \           /     \   /
-           \           o-o-o-o-o                         o-o   o o         o     o-o-o       o-o
+                                                                             O           O
+                                             O-O-O                          /            |
+                                             |   |                         O             O
+                                           O-O   Z                        /               \
+                                             |                           O                 O-O
+                                             O                           |                    \
+                                             |                           O                     O
+                                           O-O                           |                     |
+                                             |                           O                     O
+                                           G-O                           |                     |
+                                             |                           O                     O
+                                             O                           |                    /
+                                             |                           F                 O-O
+                                     O       O                           |                /
+                                      \     /                            O               O
+                                       O   O                              \               \
+                                        \ /                                O               O-O
+                                         O                                 |                 |
+\                                        |                                 O                 O
+ O                         U       M O   O                                 |                  \
+  \                        |      /  |  /                                  O                   O
+   O                     O-O---O-O---O-O                                   |                    \
+    \                   /      |                                           O-G                   O
+     O-O-O-O-O-O-O-O   O O     O                                          /                      |
+                    \ /  |    /|                                         O                       O
+                     O---O S O |                                        /                        |
+                     |    \|/  |                                       O                         O
+                     O K O-O   |     O                                /                          |
+                     | |/      O    /|                           O-O-O                         O-O
+                     O-O       |   O |                          /                               \
+                        \      |  /  |                         O                       Spalona O O
+         KREUTZHOFEN     N     | O O-O-O                      /                         Wies    \|
+                         |     |/  |/ \|                 O-O-O                                 O-O
+                         N     O   O---O                /                                       / \
+                              /                        O                                       O    \
+                    O---O----O                        /                                               \
+                   /  \      |                     O-O   O-O   Nasza                                    \
+                O-O    O     O                    /        |    Wioska                                 O-O-O-O-O-O-O-O-
+               /|  \    \    |     Las     O-O-O-O-O-O-O O O-O     O                                  /
+             /  O   U    O-k P        \   /             \| |       |                                /
+           /    |        |       O-O-O-O-O             O-O-O-O-O-O-O-O-O-O             O-O-O      /
+          O     G        |      /                        |     | |        \           /     \   /
+           \           O-O-O-O-O                         O-O   O O         O     O-O-O       O-O
              \        /  |                                                  \   /
-              o------o   o                                                   o-o
+              O------O   O                                                   O-O
                      |
                      U
+SAUCE00                                                                           20140131Q/
