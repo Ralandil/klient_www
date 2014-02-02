@@ -4,7 +4,7 @@
   \          |  /
    O         O-O  Dunkelberg
    |        /| |\
-   O-O     O U o O
+   O-O     O U O O
       \    |
        O   O
         \ /
