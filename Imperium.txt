@@ -78,7 +78,7 @@
                                                                                   /   \ /  |
                                                                                  o   o-o-o-o
                                                                                 /   /  | |  \
-                                                                               o-o-o   o K   o-o
+                                                                               o-o-o   o k   o-o
                                                                               /             /| |\
                                                                              o             o o o o
                                                                              |                  /
