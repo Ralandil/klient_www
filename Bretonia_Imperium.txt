@@ -1,85 +1,94 @@
-                                                                o-o-o-o-o-o
+
+
+
+
+
+
+
+
+
+                                                                O-O-O-O-O-O
                                                                /        |
-                                                              N   S   o-o
+                                                              N   S   O-O
                                                               |   |    / \
-                                                            #-#-o-o-o-o o o   o G
+                                                            O#O-O-O-O-O O O   O G
                                                             |       |  \ \|   | |
-                                                            |       o   o-F-o-o-o
+                                                            |       O   O-F-O-O-O
                                                             |          /  |\| |
-                                                            o-o     U-o P-o-o k
+                                                            O-O     U-O P-O-O k
                                                             |          \ / \|
-                                                            |           o   o
-                                                            o           |   |
-                                                             \          o o-o-o
+                                                            |           O   O
+                                                            O           |   |
+                                                             \          O O-O-O
                                                               \         |   |
-                                                               \        o-o-o
+                                                               \        O-O-O
                                                                 \       |   |
-                                                                 \      o   #  BOGENHAFEN
-                                                                  \         |
-                                                                   o-o-o----#
+                                                                 \      O   O  BOGENHAFEN
+                                                                  \         #
+                                                                   O-O-O----O
                                                                             |
-                                                      o             N       o
+                                                      O             N       O
                                                       |             |       |
-                                                  o   o             o       o
+                                                  O   O             O       O
                                                   |    \           /       /
-                                                o-o o   o-o   P   o       o
+                                                O-O O   O-O   P   O       O
                                                   | |  /   \  |  /       /
-                                                  o-o-o     o-o-o       o
+                                                  O-O-O     O-O-O       O
                                                  /  |       |          /
-                                      Jaskare   o   o       G     o-o-o-o
+                                      Jaskare   O   O       G     O-O-O-O
                                                /                 /       \
-  o S                                         /       o-o     o-o         o-o
+  O S                                         /       O-O     O-O         O-O
   | |                                        /       /   \   /               \
-Z-o o o o             o-o   o             o-o     o-o     o-o                 o
+Z-O O O O             O-O   O             O-O     O-O     O-O                 O
    \| | |            /   \ / \             \     /                             \
-  o-o-o-o-o-o-o   o-o     o   o     o-o-o   o-o-o                               o
+  O-O-O-O-O-O-O   O-O     O   O     O-O-O   O-O-O                               O
     |\  |      \ /             \   /     \ /                                     \
-  o-o o o       o               o-o       o                                       o
+  O-O O O       O               O-O       O                                       O
     | |\                                                                           \
-    o o o-P                                                                         o-o
+    O O O-P                                                                         O-O
     |   |                                                                              \
-    o   G    Jouinard                                                                   o
+    O   G    Jouinard                                                                   O
     |                                                                                    \
-    o                                                                                     o
+    O                                                                                     O
     |                                                                                      \
-    o-o                                                                                     o
+    O-O                                                                                     O
        \                                                                                     \
-        o                                                                   o                 o
+        O                                                                   O                 O
          \                                                                  |                 |
-          o-o                                                             G o   S             o   o-G
+          O-O                                                             G O   S             O   O-G
              \                                                            |/ \ /               \ /
-              o                                                           o   o    UBERSREIK    o
+              O                                                           O   O    UBERSREIK    O
                \                                                          |   |                /|
-                o                                                       o-o   o-k k     o Z   # o
-                |                                                          \   \  |     | |  /   \
-                o                                                           o-o-o-o   P o-o-#     o
+                O                                                       O-O   O-k k     O Z   O O
+                |                                                          \   \  |     | |  #   \
+                O                                                           O-O-O-O   P O-O-O     O
                  \                                                            |   |   |/           \
-                  o                                                           U   o B T             o     o-o-o
+                  O                                                           U   O B T             O     O-O-O
                    \                                                              |\| |              \   /     \
-            o       o                                                             S o-o-o             o-o       o
+            O       O                                                             S O-O-O             O-O       O
             |        \                                                                |                          \
-          o-o-o     o o                                                             G-o                           o-o
+          O-O-O     O O                                                             G-O                           O-O
            /       / /                                                                |                          /   \
-      o-o-o-o-o-o-o-o   Vingtiennes                                                   o                     o o o
+      O-O-O-O-O-O-O-O   Vingtiennes                                                   O                     O O O
      /  |   |   |  \                                                                 /                     / \|/
-    o   o   o   G   o                                                               o                     o   o-o
+    O   O   O   G   O                                                               O                     O   O-O
    /       / \                                                                                 Stimmingen    /|\
-  o       o   U                                                                                             o o o
+  O       O   U                                                                                             O O O
   |
   F
    \
-    o-o
+    O-O
        \
-        o
+        O
        /
-      o
+      O
       |
-      o-o-o     o-Nekropolia
+      O-O-O     O-Nekropolia
        \   \   /
-        o-o o-o
+        O-O O-O
            \
-            o
+            O
            /
-          o
+          O
           |
           N
