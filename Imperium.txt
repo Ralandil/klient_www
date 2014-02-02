@@ -125,7 +125,7 @@
                    /  \      |                     o-o   o-o   Nasza                                    \
                 o-o    o     o                    /        |    Wioska                                 o-o-o-o-o-o-o-o-
                /|  \    \    |     Las     o-o-o-o-o-o-o o o-o                                        /
-             /  o   U    o-K P        \   /             \| |                                        /
+             /  o   U    o-k P        \   /             \| |                                        /
            /    |        |       o-o-o-o-o             o-o-o-o-o-o-o-o-o-o             o-o-o      /
           o     G        |      /                        |                \           /     \   /
            \           o-o-o-o-o                         o-o               o     o-o-o       o-o
