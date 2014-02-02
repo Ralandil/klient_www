@@ -1,20 +1,20 @@
                                  o
-                                /
-                             o-o
-                            /
-                           o
-                           |
-                           o-o
-                           |
-                     o-G   o  Tadrig
-                       |   |
-                   o-o-o-o-F-o-o-o
-                  /    | |   | | |
+                                /                                 /
+                             o-o                                 o
+                            /                                   /
+                           o                                   #
+                           |                                   |
+                           o-o                                 #
+                           |                                   |
+                     o-G   o  Tadrig                           #
+                       |   |                                   |
+                   o-o-o-o-F-o-o-o                             #
+                  /    | |   | | |                             |
                  o     o o   o o o                             o---o
-                 |                                            /|  /
-                 o                                           / o-o
-                /                                           / /|  \
-               o                                         U o / | U o
+                 |                                            /|  /|
+                 o                                           / o-o o
+                /                                           / /|  \ \
+               o                                         U o / | U o o
         \      |                                          \|/  | |
          o     o                             Averheim      o G-o-o
           \   /                                            |   |/|
