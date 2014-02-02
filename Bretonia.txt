@@ -161,9 +161,9 @@
                                           \                 /|\      |/ \  |
                                            O-----------O#O-O-O-O-O-O-O O O-O-O-O---O-O-O
                                                              | |      \|/  |       |
-                                                             O S       T-O C       O-S
+                                                             O S       T-O U       O-S
                                                              |         | |         |\
-                                                             O O     P-O O   O-W H-O S
+                                                             O O     P-O O   O-U U-O S
                                                              | |       |     |     |
                                                              O-O       O     O     O
                                                              |         |     |     |
