@@ -18,7 +18,7 @@
         \      |                                          \|/  | |
          O     O                             Averheim      O G-O-O
           \   /                                            |   |/|
-           O-O-O-O-O                                     k-O   O-P-b
+           O-O-O-O-O                                     K-O   O-P-b
                    |                                        \ / \
                    O                                         O   O
                    |                                        / \   \
