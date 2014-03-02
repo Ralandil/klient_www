@@ -1,0 +1,55 @@
+
+
+
+
+
+                                |
+                                O
+                                #
+                                O
+                                |
+                                O-O-O     O
+                                | |\ \    |
+                            S S-O B P O-O-O     O
+                            |   |    /|\       / \
+                            O-O-T   O O O-----O   O
+                           /     \ /   /          |
+                          /       O   O           |
+                         /            |           |
+                        /   O-O       |           |
+                       /      |       |           |
+                      /     b-O O-O   O       O   |
+                     /         \   \  |      / \  |              wioska
+                    /           O   b O     O-O-O |               szalencow
+                   /             \  | |     | |\  |
+do novigradu      /               O-O-O-O-O O-O-O |               O   O
+                 /                |\  |  /| |     |              /   /
+           -O#O-O             O-O-O O O O O O-O-O |             O O O O
+                 \                |  \|/  | |     |            / \|/ \|
+                  \             O-O-O-F-O-O-O-O-O O           O   O O-O
+                   \            | |  /|\  |       |                \ /
+                    \         O-O-O O O O O-O-O   |               O-O
+                     \            |/  |  \|       |                 |
+                      \           O-O-O-O-O       |                 O
+                       \          |   |    \      |                  \
+                        \         O   O     O O-G |                   O
+                         \        |   |      \  | |                   |
+                          \       O   O       O | |                 O-O
+                           \          |         | |                /
+                            O O   G   |         O O               O
+                             \|   |   |         |/               /
+                              O   O   | U       O               O
+                              |  / \  | |      /                |
+                              O-O   O O O-----O-O-O-O#O-O-O-O-O O
+                              |\     \|/       \               \|
+                              N O     O         O             O-O-O
+                                |\    |         |              \|\|\
+                                N O-G O-O-O     O               O-O-O  wysypisko
+                                  |\  | |       |               |/|\|
+                                O-N O O O       O               O-O-O
+                                    |\|        /                    |\
+                                    N O---O---O                     O-O
+                                      |                             |/
+                                      N                             O
+                                                                   /
+                                                                O-O
