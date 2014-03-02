@@ -2,7 +2,6 @@
 
 
 
-
                                 |
                                 O
                                 #
@@ -46,7 +45,7 @@ do novigradu      /               O-O-O-O-O O-O-O |               O   O
                                 |\    |         |              \|\|\
                                 N O-G O-O-O     O               O-O-O  wysypisko
                                   |\  | |       |               |/|\|
-                                O-N O O O       O               O-O-O
+                                Z-N O O O       O               O-O-O
                                     |\|        /                    |\
                                     N O---O---O                     O-O
                                       |                             |/
